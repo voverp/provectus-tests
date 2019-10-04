@@ -7,12 +7,12 @@
 - Apache Maven build tool and java 1.8 or better need installed on your computer 
 
 
-######Git clone:
+###### Git clone:
 You need clone this repository
 
-######Run tests:
+###### Run tests:
 `mvn clean test site`
 
-######Open allure report:
+###### Open allure report:
 `mvn allure:serve`
 
