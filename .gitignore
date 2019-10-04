@@ -1,0 +1,5 @@
+# Intellij
+**/target/*
+.idea/*
+.allure/*
+*.iml
